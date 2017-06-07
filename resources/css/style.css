@@ -32,7 +32,7 @@ h4 {
   color: white;
   background-image: url(/Users/beavaca/WebDev/broadway/resources/images/the-flatiron-building.png);
 }
-h6 {
+.footer {
   font-size: 11px;
   color: white;
   background-color: dimgray;
