@@ -30,7 +30,7 @@ h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url(/Users/beavaca/WebDev/broadway/resources/images/the-flatiron-building.png);
+  background-image: url(file:///Users/beavaca/WebDev/broadway/resources/images/the-flatiron-building.png);
 }
 .footer {
   font-size: 11px;
@@ -39,6 +39,6 @@ h4 {
   text-align: left;
 }
 .header {
-  background-image: url(/Users/beavaca/WebDev/broadway/resources/images/the-flatiron-building.png);
+  background-image: url(file:///Users/beavaca/WebDev/broadway/resources/images/the-flatiron-building.png);
   width: 100%;
 }
