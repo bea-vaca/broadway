@@ -38,3 +38,7 @@ h4 {
   background-color: dimgray;
   text-align: left;
 }
+.header {
+  background-image: url(/Users/beavaca/WebDev/broadway/resources/images/the-flatiron-building.png);
+  width: 100%;
+}
