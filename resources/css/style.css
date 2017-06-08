@@ -11,6 +11,7 @@ h5 {
   font-size: 18px;
   color: white;
   text-decoration: underline;
+  line-height: 60%;
 }
 h2 {
   font-size: 32px;
@@ -31,6 +32,7 @@ h4 {
   font-weight: bold;
   color: white;
   background-image: url(../images/the-flatiron-building.png);
+  background-position: center;
 }
 .footer {
   font-size: 11px;
@@ -40,5 +42,6 @@ h4 {
 }
 .header {
   background-image: url(../images/the-flatiron-building.png);
-  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
 }
